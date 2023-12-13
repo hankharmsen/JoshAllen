@@ -1,2 +1,2 @@
-# JoshAllen
+# IS201
 Final Project IS
