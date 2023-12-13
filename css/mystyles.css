@@ -1,0 +1,14 @@
+/* 
+body{
+    background-image: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2023/09/AP23260646677189.jpg?w=1280";
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+
+body{
+background-color: rgb(129, 188, 168);
+margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: 300;
+  text-decoration: wavy;
+}
